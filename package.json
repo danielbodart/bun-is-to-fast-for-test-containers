@@ -1,0 +1,11 @@
+{
+  "name": "bun-is-to-fast-for-test-containers",
+  "private": true,
+  "devDependencies": {
+    "@testcontainers/postgresql": "^10.24.0",
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
