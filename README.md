@@ -1,7 +1,7 @@
 # bun-test-containers-race-condition
 A self contained example that can easily reporduce the error seen in Bun when using test containers
 
-This project is completely self contained, just checkout and open a terminal and run 
+This project is completely self contained, just checkout and open a terminal and run. This will download and install mise and bun into the local tools directory and then all the packages etc
 
 ```
 ./run
