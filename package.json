@@ -1,5 +1,5 @@
 {
-  "name": "bun-is-to-fast-for-test-containers",
+  "name": "bun-test-containers-race-condition",
   "private": true,
   "devDependencies": {
     "@testcontainers/postgresql": "^10.24.0",
